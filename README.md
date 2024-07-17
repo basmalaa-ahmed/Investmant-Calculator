@@ -48,7 +48,7 @@ You can fill the form with the data and click calaculate to get your initial inv
 
 (https://www.linkedin.com/in/basmala-ahmed-/) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 
 
